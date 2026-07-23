@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Viviana Padilla
 
-<!--
-**vivipadilla-data/vivipadilla-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+I'm an aspiring **Data Analyst** currently building my skills through hands-on projects in Python, SQL, Pandas, Excel, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about solving problems with data and continuously improving my analytical skills through real-world projects.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python
+- 🐼 Pandas
+- 🗃️ SQL
+- 📊 Matplotlib
+- 📈 Excel
+- 🧹 Data Cleaning
+- 📋 Exploratory Data Analysis (EDA)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- Statistics for Data Analysis
+- Data Visualization
+- Machine Learning Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+- 🚦 Urban Mobility vs. Economic Indicators (TripleTen Project 5)
+- 📊 More projects coming soon...
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/viviana-padilla-864575278
